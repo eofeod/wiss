@@ -1,0 +1,62 @@
+{
+    "jadwal" : 
+    [
+        {
+            "mapel" : "pai" ,
+            "waktu" : "senin",
+            "link" : ["pai.link1","pai.link2","pai.link3"]
+        },
+        {
+            "mapel" : "ppkn" ,
+            "waktu" : "senin",
+            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+        },
+        {
+            "mapel" : "bindo" ,
+            "waktu" : "senin",
+            "link" : ["bindo.link1","bindo.link2","bindo.link3"]
+        },
+        {
+            "mapel" : "mtk" ,
+            "waktu" : "senin",
+            "link" : ["link1","link2","link3"]
+        },
+        {
+            "mapel" : "ipa" ,
+            "waktu" : "senin",
+            "link" : ["link1","link2","link3"]
+        },
+        {
+            "mapel" : "ips" ,
+            "waktu" : "senin",
+            "link" : ["link1","link2","link3"]
+        },
+        {
+            "mapel" : "bing" ,
+            "waktu" : "senin",
+            "link" : ["link1","link2","link3"]
+        },
+        {
+            "mapel" : "prak" ,
+            "waktu" : "senin",
+            "link" : ["link1","link2","link3"]
+        },
+        {
+            "mapel" : "sbk" ,
+            "waktu" : "senin",
+            "link" : ["link1","link2","link3"]
+        },
+        {
+            "mapel" : "khatolik" ,
+            "waktu" : "senin",
+            "link" : ["link1","link2","link3"]
+        },
+        {
+            "mapel" : "protestan" ,
+            "waktu" : "senin",
+            "link" : ["link1","link2","link3"]
+        }
+        
+    ]
+    
+}
