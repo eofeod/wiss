@@ -2,59 +2,99 @@
     "jadwal" : 
     [
         {
-            "mapel" : "pai" ,
-            "waktu" : "senin",
+            "mapel" : "Ekonomi" ,
+            "waktu" : "2022-11-28 07:30",
             "link" : ["pai.link1","pai.link2","pai.link3"]
         },
         {
-            "mapel" : "ppkn" ,
-            "waktu" : "senin",
+            "mapel" : "Akidah AKhlak" ,
+            "waktu" : "2022-11-28 08:20",
             "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
         },
         {
-            "mapel" : "bindo" ,
-            "waktu" : "senin",
+            "mapel" : "Seni Budaya" ,
+            "waktu" : "2022-11-28 09:40",
             "link" : ["bindo.link1","bindo.link2","bindo.link3"]
         },
         {
-            "mapel" : "mtk" ,
-            "waktu" : "senin",
-            "link" : ["link1","link2","link3"]
+            "mapel" : "SKI" ,
+            "waktu" : "2022-11-29 07:30",
+            "link" : ["pai.link1","pai.link2","pai.link3"]
         },
         {
-            "mapel" : "ipa" ,
-            "waktu" : "senin",
-            "link" : ["link1","link2","link3"]
+            "mapel" : "Kimia" ,
+            "waktu" : "2022-11-29 08:20",
+            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
         },
         {
-            "mapel" : "ips" ,
-            "waktu" : "senin",
-            "link" : ["link1","link2","link3"]
+            "mapel" : "PJOK" ,
+            "waktu" : "2022-11-29 09:40",
+            "link" : ["bindo.link1","bindo.link2","bindo.link3"]
         },
         {
-            "mapel" : "bing" ,
-            "waktu" : "senin",
-            "link" : ["link1","link2","link3"]
+            "mapel" : "Matematika" ,
+            "waktu" : "2022-11-30 07:30",
+            "link" : ["pai.link1","pai.link2","pai.link3"]
         },
         {
-            "mapel" : "prak" ,
-            "waktu" : "senin",
-            "link" : ["link1","link2","link3"]
+            "mapel" : "Bahasa Arab" ,
+            "waktu" : "2022-11-30 08:20",
+            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
         },
         {
-            "mapel" : "sbk" ,
-            "waktu" : "senin",
-            "link" : ["link1","link2","link3"]
+            "mapel" : "Informatika" ,
+            "waktu" : "2022-11-30 09:37",
+            "link" : ["bindo.link1","bindo.link2","bindo.link3"]
         },
         {
-            "mapel" : "khatolik" ,
-            "waktu" : "senin",
-            "link" : ["link1","link2","link3"]
+            "mapel" : "Sejarah" ,
+            "waktu" : "2022-12-1 07:30",
+            "link" : ["pai.link1","pai.link2","pai.link3"]
         },
         {
-            "mapel" : "protestan" ,
-            "waktu" : "senin",
-            "link" : ["link1","link2","link3"]
+            "mapel" : "Sosiologi" ,
+            "waktu" : "2022-12-1 08:20",
+            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+        },
+        {
+            "mapel" : "Alqur'an Hadits" ,
+            "waktu" : "2022-12-1 09:40",
+            "link" : ["bindo.link1","bindo.link2","bindo.link3"]
+        },
+        {
+            "mapel" : "Bahasa Indonesia" ,
+            "waktu" : "2022-12-2 07:30",
+            "link" : ["pai.link1","pai.link2","pai.link3"]
+        },
+        {
+            "mapel" : "Bahasa Inggris" ,
+            "waktu" : "2022-12-2 09:10",
+            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+        },
+        {
+            "mapel" : "Sejarah Indonesia" ,
+            "waktu" : "2022-12-3 07:30",
+            "link" : ["pai.link1","pai.link2","pai.link3"]
+        },
+        {
+            "mapel" : "Fikih" ,
+            "waktu" : "2022-12-3 08:20",
+            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+        },
+        {
+            "mapel" : "Prakarya" ,
+            "waktu" : "2022-12-3 09:40",
+            "link" : ["bindo.link1","bindo.link2","bindo.link3"]
+        },
+        {
+            "mapel" : "Geografi" ,
+            "waktu" : "2022-12-5 07:30",
+            "link" : ["pai.link1","pai.link2","pai.link3"]
+        },
+        {
+            "mapel" : "PPKn" ,
+            "waktu" : "2022-12-5 09:10",
+            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
         }
         
     ]
