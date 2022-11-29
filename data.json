@@ -34,17 +34,17 @@
         {
             "mapel" : "Matematika" ,
             "waktu" : "2022-11-30 07:30",
-            "link" : ["pai.link1","pai.link2","pai.link3"]
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLScKav4j4iUw59DxXnsuaS8jjErWcTGeAIPFWvrVOKFYkhWB6A/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSfs5Mj6YuMBWWOJhI9FTTS2hWpnaP8YqyWdBVEiVCKFHb8Gzw/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSfmAP1kL4KQs5o1ijiNoAq48YLR_p1ts9h9eYs1IUnKdxEmTQ/viewform?usp=sf_link"]
         },
         {
             "mapel" : "Bahasa Arab" ,
             "waktu" : "2022-11-30 08:20",
-            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLScSVt8A9cEwtkt5BzDuROTcQRqcIi75a5HvuqwkfflsU0bzLA/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScygx3gJp9U9DlykA-Cpg8bUihBw4f6nrFNKne9PHZD8IfMYA/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScjDP-j5I910Rw7E24uHfls67fJPjjW8lLTg8tqOINj4d77SQ/viewform?usp=sf_link"]
         },
         {
             "mapel" : "Informatika" ,
             "waktu" : "2022-11-30 09:37",
-            "link" : ["bindo.link1","bindo.link2","bindo.link3"]
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSc7Q-tcVnr7BC-E8BKvFe5eU6lSQorHJNaK4F0xlIHlK_wIAg/viewform?usp=sf_link","#","#"]
         },
         {
             "mapel" : "Sejarah" ,
