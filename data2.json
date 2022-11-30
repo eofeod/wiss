@@ -1,0 +1,102 @@
+{
+    "jadwal" : 
+    [
+        {
+            "mapel" : "Ekonomi" ,
+            "waktu" : "2022-11-28 07:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSf7yaQ6WIIEaZjhqhVRK8r84xkkv4eBrsGertO4kjeZFhjIPw/viewform","https://docs.google.com/forms/d/e/1FAIpQLSc9jOYo_InwfIz2dOr3IsTOY7p749QcX-Jd6rTUzg3bSa6AVQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSc9gCEQG2RsA7xA0-xkhmGfQMpL2CWUcnLwQA0AxgP3Q29m8w/viewform"]
+        },
+        {
+            "mapel" : "Akidah AKhlak" ,
+            "waktu" : "2022-11-28 08:20",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSeBIRYu8sVnLMECAcI6hq-IiHJalTO2jhv5RaHsGCxoidUy9w/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSc2pe0RAnTk9Wk0UBhtd3fUJfg3I-EGQm7tsdJQdHJggk63rw/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSeXoBXuXwu4PW2VmH2QChqXgIylWGOOj3XcZshrvnPS0q9clg/viewform?usp=sf_link"]
+        },
+        {
+            "mapel" : "Seni Budaya" ,
+            "waktu" : "2022-11-28 09:40",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSdG6MgOB5qTmgpKGouIVUa6Y6UZOziWVK_c1KgXqxaRw9kZKg/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSetjWdoahXH2cpOnswBYhUAq0EZB2tiDpoTrEKPsrCbe7S1iA/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSdh1J32CoDF2SW43SmU6En5Hx2ptdGyi_ITxBWigr1oyyzaNg/viewform?usp=sf_link"]
+        },
+        {
+            "mapel" : "Sosiologi" ,
+            "waktu" : "2022-11-29 07:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSea_troATfdm7LQ0DTf4fRh74IG7RaSc_rB1e-nL_PK66TH4Q/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSczawNleYpTsTwO6r3QbJDvfnfJV5SMnzmnL3kDywvzjWg6PA/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSdoU4jNskA_kKPGIwu4uB4EzPc67o8ET6mbgDGVSKxUF7xG9g/viewform?usp=sf_link"]
+        },
+        {
+            "mapel" : "Kimia" ,
+            "waktu" : "2022-11-29 08:20",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSehiVEY3bdHw1edHR_VYze3XAdsf-MSYpPo1BhmdwpeSRMHBQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSdLqnhvch94ab3ylNCez2io7qS5wVC1tjoiIwr1hgnOXDhBOw/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSc0hHyOVne72MYRIDPQ7ia4MMeop2Pd01U-g_f0GsdFQJv4KQ/viewform?usp=sf_link"]
+        },
+        {
+            "mapel" : "PJOK" ,
+            "waktu" : "2022-11-29 09:40",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSeaC9A0KBYItHw-lOfsH72P9BbLWIkqwC9tsyrGCpsytqN_Rw/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSdkweDIlGz1Pl_ViaugNhjvkAJCsB6az3g370Nv2XwVZNKQaw/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSdq6C-JtE63kjiOe5hxdYzeGzub8qBoXzCAjQlxM76UL1ci6A/viewform?usp=sf_link"]
+        },
+        {
+            "mapel" : "BBahasa Arab" ,
+            "waktu" : "2022-11-30 07:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLScSVt8A9cEwtkt5BzDuROTcQRqcIi75a5HvuqwkfflsU0bzLA/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScygx3gJp9U9DlykA-Cpg8bUihBw4f6nrFNKne9PHZD8IfMYA/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScjDP-j5I910Rw7E24uHfls67fJPjjW8lLTg8tqOINj4d77SQ/viewform?usp=sf_link"]
+        },
+        {
+            "mapel" : "Informatika" ,
+            "waktu" : "2022-11-30 08:20",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSc7Q-tcVnr7BC-E8BKvFe5eU6lSQorHJNaK4F0xlIHlK_wIAg/viewform?usp=sf_link","#","#"]
+        },
+        {
+            "mapel" : "Matematika" ,
+            "waktu" : "2022-11-30 09:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLScKav4j4iUw59DxXnsuaS8jjErWcTGeAIPFWvrVOKFYkhWB6A/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSfs5Mj6YuMBWWOJhI9FTTS2hWpnaP8YqyWdBVEiVCKFHb8Gzw/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSfmAP1kL4KQs5o1ijiNoAq48YLR_p1ts9h9eYs1IUnKdxEmTQ/viewform?usp=sf_link"]
+        },
+        {
+            "mapel" : "Sejarah" ,
+            "waktu" : "2022-12-1 07:30",
+            "link" : ["pai.link1","pai.link2","pai.link3"]
+        },
+        {
+            "mapel" : "SKI" ,
+            "waktu" : "2022-12-1 08:20",
+            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+        },
+        {
+            "mapel" : "Alqur'an Hadits" ,
+            "waktu" : "2022-12-1 09:40",
+            "link" : ["bindo.link1","bindo.link2","bindo.link3"]
+        },
+        {
+            "mapel" : "Bahasa Indonesia" ,
+            "waktu" : "2022-12-2 07:30",
+            "link" : ["pai.link1","pai.link2","pai.link3"]
+        },
+        {
+            "mapel" : "BIBahasa Inggris" ,
+            "waktu" : "2022-12-2 09:10",
+            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+        },
+        {
+            "mapel" : "Sejarah Indonesia" ,
+            "waktu" : "2022-12-3 07:30",
+            "link" : ["pai.link1","pai.link2","pai.link3"]
+        },
+        {
+            "mapel" : "Fikih" ,
+            "waktu" : "2022-12-3 08:20",
+            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+        },
+        {
+            "mapel" : "Prakarya" ,
+            "waktu" : "2022-12-3 09:40",
+            "link" : ["bindo.link1","bindo.link2","bindo.link3"]
+        },
+        {
+            "mapel" : "Geografi" ,
+            "waktu" : "2022-12-5 07:30",
+            "link" : ["pai.link1","pai.link2","pai.link3"]
+        },
+        {
+            "mapel" : "PPKn" ,
+            "waktu" : "2022-12-5 09:10",
+            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+        }
+        
+    ]
+    
+}
