@@ -49,42 +49,42 @@
         {
             "mapel" : "Sejarah" ,
             "waktu" : "2022-12-1 07:30",
-            "link" : ["pai.link1","pai.link2","pai.link3"]
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSfPcn-1e_LUY9d1lXxGvixNOJnT2P3Kca_XdXU_g7u_jI9m1w/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScGSJ315Dx9Nm_iQ_NnASFLgbG2p00cBxqqzTHJ7GhYX2In4Q/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSeXJG_FsR2ARZpcVstY3rHLOzNkJdsSfnwGLKegrnUSe5yQ8w/viewform?usp=sf_link"]
         },
         {
             "mapel" : "SKI" ,
             "waktu" : "2022-12-1 08:20",
-            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSeaw1ScrEaKNHDkuA6n2bT0ybtXR57k29NgbCsq6WLfD3_EuA/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSfBBmEDW8bll0AeeIcYKsXzX-58Wa6qkLtGVnk_JO8Ccwhf5Q/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSeJYzoeYw_QZLpzKR93I1WaaaRO7u2z63o3G2o2Wea-sF8G4g/viewform?usp=sf_link"]
         },
         {
             "mapel" : "Alqur'an Hadits" ,
             "waktu" : "2022-12-1 09:40",
-            "link" : ["bindo.link1","bindo.link2","bindo.link3"]
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSdZsg4nqSaeUoo9Hl9Hmlld2R_QGICmEz_aTVKbwLLsk9n8Ng/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSeoL9z4-pY0kSffTQhU536_izYKlkGLC3_2YZwPQPGvnnUAQg/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSe0dHDDbyrbHZK1A_2oF3JgqjY-D9YQZ4kx5Fed1q5-2HSplQ/viewform?usp=sf_link"]
         },
         {
             "mapel" : "Bahasa Indonesia" ,
             "waktu" : "2022-12-2 07:30",
-            "link" : ["pai.link1","pai.link2","pai.link3"]
+            "link" : ["","",""]
         },
         {
             "mapel" : "BIBahasa Inggris" ,
             "waktu" : "2022-12-2 09:10",
-            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+            "link" : ["","",""]
         },
         {
             "mapel" : "SISejarah Indonesia" ,
             "waktu" : "2022-12-3 07:30",
-            "link" : ["pai.link1","pai.link2","pai.link3"]
+            "link" : ["","",""]
         },
         {
             "mapel" : "Fikih" ,
             "waktu" : "2022-12-3 08:20",
-            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+            "link" : ["","",""]
         },
         {
             "mapel" : "Prakarya" ,
             "waktu" : "2022-12-3 09:40",
-            "link" : ["bindo.link1","bindo.link2","bindo.link3"]
+            "link" : ["","",""]
         },
         {
             "mapel" : "Geografi" ,
