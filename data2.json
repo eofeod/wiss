@@ -89,12 +89,17 @@
         {
             "mapel" : "Geografi" ,
             "waktu" : "2022-12-5 07:30",
-            "link" : ["pai.link1","pai.link2","pai.link3"]
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSe6x_mDVtbwyHSirVgyHoQKtQN9mK-lmOZW4PMHTT3vmvFDig/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSeXgdeOgGro23Vry6YndaWYSmuxcKxJ0Owbt6m0yUdHLV01ZQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSe2_v-lzY5wIZIpRHxX_f7Ul4sylOboW6br4yXRO1B-1K_1jA/viewform?usp=sf_link"]
         },
         {
             "mapel" : "PPKn" ,
+            "waktu" : "2022-12-5 08:20",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSdx7A8hDQHP_-Pmg9FU8EDRl1zEF4lgIDmylHpbKo0_ZrbnMA/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSeIDjToIEKNyiFutuUMnC8Zs5Lz-1QHXsM0xym6uNdAHtiDFw/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSe49siD9pAbjD53dsx1QJ2MgEtrImRN1Fk_qepHVZ5KgDnzJQ/viewform?usp=sf_link"]
+        },
+        {
+            "mapel" : "Fikih Susulan Kls XI" ,
             "waktu" : "2022-12-5 09:10",
-            "link" : ["ppkn.link1","ppkn.link2","ppkn.link3"]
+            "link" : ["","https://docs.google.com/forms/d/e/1FAIpQLSdER2MA6z2E_3VG4dgB4l-Cuymt0DLokvONiKRf_sxbrRuFgw/viewform?usp=sf_link",""]
         }
         
     ]
