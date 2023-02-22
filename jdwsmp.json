@@ -3,72 +3,46 @@
     [
         {
             "mapel" : "Bahasa Indonesia" ,
-            "waktu" : "2022-12-07 07:30",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSfTA8PF941v_VGVfCWKK4VzLul0BEe19Hp3T_4Fe93Z2B6Rqw/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSdHhP5oVJr2jHDnh2iju60dK4mTTT98Zv8A78MhQpKjEcISnw/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLScW_TVtbn7oO1RqnItHRCe37LtTvP5d2WKAfpc-Jxb8VdLqog/viewform?usp=share_link"]
+            "waktu" : "2023-2-27 07:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSfk9RlqILaTIybJirsopDrOC985l5h04PGB6E6KVCe9u8TbOQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSfCI1MzBNpmdbEy2ML7R1RKKEJ2u6FaHyt8I7m4diJ-ZSA0Nw/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScXWKibaKv_E0Zm1cinTMv-dEjR-vSjapcpdf9arsIYEHtFQQ/viewform?usp=sf_link"]
+
+
         },
         {
-            "mapel" : "PPKn" ,
-            "waktu" : "2022-12-7 8:15",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSchXvtVf0ZGaBC53JHXLIkli1-K_gFS9P-EIk7v923oS-CLxg/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSd2G2AxL0_D6i8vHufazRoEutM8l1AlvRL-wvhhxHaoFx4FuA/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLScOmOUOTeZDrJQO7XKnt1c4qfQEROH9UG3clX2b4ntd82aC8w/viewform?usp=share_link"]
+            "mapel" : "Bhs Inggris" ,
+            "waktu" : "2023-2-27 09:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSdM_JZ5IoktfCBKoMtfDpKksXVFBcVrQjcZzoJGPgyKQwXf_Q/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSdd_eoAHTwdt4p0Kjt1vOVJRMR6SSXuihmeiSZPvutiD-SOBw/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScJTa_aQmgCQv2GHbkMtYfiKJVpbl1oJfkQqU47KJIrvEg31g/viewform?usp=sf_link"]
+
         },
         {
-            "mapel" : "MATEMATIKA" ,
-            "waktu" : "2022-12-6 07:30",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSc_X4fBt6JkH0lt097ND3lpLCcoyGHh9v3cnMXAfCCYgOKbOQ/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLScbfJFmIMJhS0SauENbw6WygHvcUhNaimPJ8di6ukzQDW4-FQ/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSd9f5msZbgLpqHPZHnc_YxuzMHrOtOrHmeUZ7KUK5n309S5SQ/viewform?usp=share_link"]
-        },
-        {
-            "mapel" : "PRAKARYA" ,
-            "waktu" : "2022-12-6 10:00",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSdC2BlNomVSYmaVTSDSw7Xkrt5xzKLHDML3PUe3Fyfgi-UhuA/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSfYCUt-GEzaAt7UZLOKJxdZmBclX9DecEeJYVdvhOGgrHyr0A/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScjM6fKcq16A7LfgMtA96cN5xd6XhQXNgWIA0Qa6zOQtvVpQw/viewform?usp=share_link"]
-        },
-        {
-            "mapel" : "IPA" ,
-            "waktu" : "2022-12-7 07:30",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSdpmcg2gTeoJTXzIvKggzmDcOF243AoWDgY74MJdH_Ta8hK6w/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSetIxwXXRiV_4czIFTYP4XoIt_Z0n-HiTDVXFaxrM44lqpt8Q/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSd5qwReHsti1u0-mrsUl6ID4XhqhXTI8-Ix_2O9YUhUSp5_Fw/viewform?usp=share_link"]
-        },
-        {
-            "mapel" : "SENI BUDAYA" ,
-            "waktu" : "2022-12-7 10:00",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSemKtIy0XpeuijyI-djOK46JWiGJSlNnL5onDRPxoRjzwV8BQ/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSe4PIqWO_6fLGSLLcsPgusotD81CSsrZsokcB4rJfT5GZbOBw/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSeHNg12w5y4hvUsXAZUchgvUR7uz0V19BDVzSQeI0MpmVPhAw/viewform?usp=share_link"]
-        },
-        {
-            "mapel" : "BHS INGGRIS" ,
-            "waktu" : "2022-12-8 07:30",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLScTb4viFnPH4QQCu9uZMBWljplCnVxMcm6Y6DPhTakdOVUQ3Q/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSd6bN2rQ3wczYXcki91q0r8Z02WFFj3uoexdUuhHmQ2LOShDg/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSeVxbJH48amxLVH-xYNUjm3ITlVgwz97Pmx_1cUKTZlpd45PA/viewform?usp=share_link"]
+            "mapel" : "Matematika" ,
+            "waktu" : "2023-2-28 07:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSeAvZRPTZ1LFVLfZqSq0HPEqqKkHRkHCYzIrVSvFqOoky1j2w/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScl2sn_AApRufnA6NXKU_3JhDkjWPll22khiV6bzGOpz5sZKg/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScKg7-K_yMAUhwq8zR1mvBk0kpKCn8apw9mpJTl_mJqkgz4WQ/viewform?usp=sf_link"]
+
         },
         {
             "mapel" : "IPS" ,
-            "waktu" : "2022-12-8 10:00",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSfN1tFv71E8h_VgvuPDztyasHnz3VF2ZnAh9carT39-8u_Jaw/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSdOvW4vs4jjOep9BtSNQoNao0h272HfJ1BOoHh6tHxPrsa7CA/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSfPySBlEEUt-qcvrWQLX4I0gwZBH-McZpjzZKl9Sqm31hzazg/viewform?usp=share_link"]
+            "waktu" : "2023-2-28 09:30",
+            "link" : ["","https://docs.google.com/forms/d/e/1FAIpQLSfyCpU-dfZKAtRcW99ePyxufRzT8UiwR5YnrxoTNcPaoqrBAQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSddc-z4JOOoCgxkBylyJ8QRbegiS75qyacRb53e3BD7ubJ6AA/viewform?usp=sf_link"]
+
         },
         {
-            "mapel" : "PAI (Pendidikan Agama Islam)" ,
-            "waktu" : "2022-12-9 07:30",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSds6PX7bPptRtphsOGCsqaqImBgQFzQ6FWb-B5RlY7C2SUS-A/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLScbfJFmIMJhS0SauENbw6WygHvcUhNaimPJ8di6ukzQDW4-FQ/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLScLdLbDqC04Qke2yJGIpydVdlYEdE4Y32Sla-VwYBA_WMcY2w/viewform?usp=share_link"]
+            "mapel" : "IPA" ,
+            "waktu" : "2023-3-1 07:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSeBH22oiv6rZsxGhya4fMdTQEJb5SVNdjQx-Cg3y4XTYwvTkg/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSd2N8oEnl3jla4UPERcEbcR2sbBnBhAKwR3ktEaPPjA3iCDuA/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSe5HCv5FqRUsAM5waie34Jj0xSPA_EDkDfc5mQIA-MqVxON2g/viewform?usp=sf_link"]
+
         },
         {
-            "mapel" : "KATOLIK (Pendidikan Agama Kristen Katolik)" ,
-            "waktu" : "2022-12-9 07:30",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSfihF6nUQq8BW-HgL-6H_JG86RnWfm8D-nTFT6nWWYOcpL3Zg/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSfihF6nUQq8BW-HgL-6H_JG86RnWfm8D-nTFT6nWWYOcpL3Zg/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSfihF6nUQq8BW-HgL-6H_JG86RnWfm8D-nTFT6nWWYOcpL3Zg/viewform?usp=share_link"]
+            "mapel" : "PPKn" ,
+            "waktu" : "2023-3-1 09:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSePntF21i7K6R1yGWTaQgEMydLsmXSrU4RLL3kFEdlXC3ReCQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSedn-CF3bW81BIf5dj_29itvmEJc7EXbEvrU7lyYbuMIJwPKQ/viewform?usp=sf_link",""]
+
         },
         {
-            "mapel" : "PROTESTAN (Pendidikan Agama Kristen Protestan)" ,
-            "waktu" : "2022-12-9 07:30",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSduXWqYLvSKpBCv8WLOjRaDx043W3-Xpry8DFWsuQRKtU2jNQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSduXWqYLvSKpBCv8WLOjRaDx043W3-Xpry8DFWsuQRKtU2jNQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSduXWqYLvSKpBCv8WLOjRaDx043W3-Xpry8DFWsuQRKtU2jNQ/viewform?usp=sf_link"]
-        },
-        {
-            "mapel" : "PJOK" ,
-            "waktu" : "2022-12-9 10:00",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSfaz96qbgZEZBdkRvBhymmO5wsqd_i-jG41MBVbcBg4Xqgdww/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSc9BTw7pt4V6WtXzUgoaUNgm7Q2rmMPOLk02s4uwRFPeT-Log/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSenBST6itIwAMY8D2sMuN6_R7RMLMAhTm0FsCua7-OtuKEB6A/viewform?usp=share_link"]
-        },
-        {
-            "mapel" : "PPPKn" ,
-            "waktu" : "2022-12-7 08:15",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSchXvtVf0ZGaBC53JHXLIkli1-K_gFS9P-EIk7v923oS-CLxg/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSd2G2AxL0_D6i8vHufazRoEutM8l1AlvRL-wvhhxHaoFx4FuA/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLScOmOUOTeZDrJQO7XKnt1c4qfQEROH9UG3clX2b4ntd82aC8w/viewform?usp=share_link"]
-        },{
-            "mapel" : "Bahasa Indonesia" ,
-            "waktu" : "2022-12-07 10:00",
-            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSfTA8PF941v_VGVfCWKK4VzLul0BEe19Hp3T_4Fe93Z2B6Rqw/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLSdHhP5oVJr2jHDnh2iju60dK4mTTT98Zv8A78MhQpKjEcISnw/viewform?usp=share_link","https://docs.google.com/forms/d/e/1FAIpQLScW_TVtbn7oO1RqnItHRCe37LtTvP5d2WKAfpc-Jxb8VdLqog/viewform?usp=share_link"]
+            "mapel" : "PAI" ,
+            "waktu" : "2023-3-1 09:50",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLScY5u5Cnaz2i20YcAWtdwJ-DHzsHtRS_VWprjfHMjLjbCXb0A/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScoQbgg3iBHGmmoyvJwrDdPCiradvThbirOU9HeoGfNDv3KIA/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSfXhZikp7bCXu9j8PbjDj_b_L1seY7SXpvVuufOxN4bsYOi3Q/viewform?usp=sf_link"]
+
         }
         
     ]
