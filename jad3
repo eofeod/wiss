@@ -1,0 +1,59 @@
+{
+    "jadwal" : 
+    [
+        {
+            "mapel" : "Bahasa Indonesia" ,
+            "waktu" : "2023-2-27 07:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSfk9RlqILaTIybJirsopDrOC985l5h04PGB6E6KVCe9u8TbOQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSfCI1MzBNpmdbEy2ML7R1RKKEJ2u6FaHyt8I7m4diJ-ZSA0Nw/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScXWKibaKv_E0Zm1cinTMv-dEjR-vSjapcpdf9arsIYEHtFQQ/viewform?usp=sf_link"]
+
+
+        },
+        {
+            "mapel" : "Bhs Inggris" ,
+            "waktu" : "2023-2-27 09:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSdM_JZ5IoktfCBKoMtfDpKksXVFBcVrQjcZzoJGPgyKQwXf_Q/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSdd_eoAHTwdt4p0Kjt1vOVJRMR6SSXuihmeiSZPvutiD-SOBw/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScJTa_aQmgCQv2GHbkMtYfiKJVpbl1oJfkQqU47KJIrvEg31g/viewform?usp=sf_link"]
+
+        },
+        {
+            "mapel" : "Matematika" ,
+            "waktu" : "2023-2-28 07:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSeAvZRPTZ1LFVLfZqSq0HPEqqKkHRkHCYzIrVSvFqOoky1j2w/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScl2sn_AApRufnA6NXKU_3JhDkjWPll22khiV6bzGOpz5sZKg/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScKg7-K_yMAUhwq8zR1mvBk0kpKCn8apw9mpJTl_mJqkgz4WQ/viewform?usp=sf_link"]
+
+        },
+        {
+            "mapel" : "IPS" ,
+            "waktu" : "2023-2-28 09:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLScV-IyiOnW404bEN_bAbUHaVyuMWK-6polGyX3GFQp6SAUrVQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSfyCpU-dfZKAtRcW99ePyxufRzT8UiwR5YnrxoTNcPaoqrBAQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSddc-z4JOOoCgxkBylyJ8QRbegiS75qyacRb53e3BD7ubJ6AA/viewform?usp=sf_link"]
+            
+        },
+        {
+            "mapel" : "IPA" ,
+            "waktu" : "2023-3-1 07:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSeBH22oiv6rZsxGhya4fMdTQEJb5SVNdjQx-Cg3y4XTYwvTkg/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSd2N8oEnl3jla4UPERcEbcR2sbBnBhAKwR3ktEaPPjA3iCDuA/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSe5HCv5FqRUsAM5waie34Jj0xSPA_EDkDfc5mQIA-MqVxON2g/viewform?usp=sf_link"]
+
+        },
+        {
+            "mapel" : "PPKn" ,
+            "waktu" : "2023-3-1 09:30",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSdM_JZ5IoktfCBKoMtfDpKksXVFBcVrQjcZzoJGPgyKQwXf_Q/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSdd_eoAHTwdt4p0Kjt1vOVJRMR6SSXuihmeiSZPvutiD-SOBw/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScJTa_aQmgCQv2GHbkMtYfiKJVpbl1oJfkQqU47KJIrvEg31g/viewform?usp=sf_link"]
+        },
+        {
+            "mapel" : "PAI" ,
+            "waktu" : "2023-3-1 09:50",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLScY5u5Cnaz2i20YcAWtdwJ-DHzsHtRS_VWprjfHMjLjbCXb0A/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLScoQbgg3iBHGmmoyvJwrDdPCiradvThbirOU9HeoGfNDv3KIA/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSfXhZikp7bCXu9j8PbjDj_b_L1seY7SXpvVuufOxN4bsYOi3Q/viewform?usp=sf_link"]
+
+        },
+        {
+            "mapel" : "PROTESTAN" ,
+            "waktu" : "2023-3-1 09:50",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSfddAB6Xs24pMErSzZNLgosSEtQDJ6Sa2YvyRubcDwr0FdNZQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSfddAB6Xs24pMErSzZNLgosSEtQDJ6Sa2YvyRubcDwr0FdNZQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSfddAB6Xs24pMErSzZNLgosSEtQDJ6Sa2YvyRubcDwr0FdNZQ/viewform?usp=sf_link"]
+        },
+        {
+            "mapel" : "KATOLIK" ,
+            "waktu" : "2023-3-1 09:50",
+            "link" : ["https://docs.google.com/forms/d/e/1FAIpQLSd1fHv3dldIZgfVkxUXNj0WYbFHmSlBvI9Jzrr2O2IZV8V6sQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSd1fHv3dldIZgfVkxUXNj0WYbFHmSlBvI9Jzrr2O2IZV8V6sQ/viewform?usp=sf_link","https://docs.google.com/forms/d/e/1FAIpQLSd1fHv3dldIZgfVkxUXNj0WYbFHmSlBvI9Jzrr2O2IZV8V6sQ/viewform?usp=sf_link"]
+        }
+        
+    ]
+    
+}
