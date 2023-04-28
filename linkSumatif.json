@@ -1,0 +1,122 @@
+[
+  {
+    "MAPEL": "BAHASA INDONESIA",
+    "KELAS": "IX",
+    "SESI": 1,
+    "TOKEN": 905369,
+    "DURASI": 120,
+    "HARI": "SENIN",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSeFE38iPdVRmsioQG2OUdTPxyQuBA-CDhs5RcL-B8XYPaSsxg/viewform?usp=sf_link",
+    "LINK GAMBAR": ""
+  },
+  {
+    "MAPEL": "PPKn",
+    "KELAS": "IX",
+    "SESI": 1,
+    "TOKEN": 513040,
+    "DURASI": 120,
+    "HARI": "SENIN",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdeC2YsN9rAaducrlT25t6W10QibuFgsBM5TyyVEZEttVmvMw/viewform?usp=sf_link",
+    "LINK GAMBAR": ""
+  },
+  {
+    "MAPEL": "MATEMATIKA",
+    "KELAS": "IX",
+    "SESI": 1,
+    "TOKEN": 797819,
+    "DURASI": 120,
+    "HARI": "SELASA",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdrvSIvgW77k9gLl3JlTmjh0LATK3Fn-OkCDDME3yVLr2Gm1w/viewform?usp=sf_link",
+    "LINK GAMBAR": ""
+  },
+  {
+    "MAPEL": "PRAKARYA",
+    "KELAS": "IX",
+    "SESI": 1,
+    "TOKEN": 854946,
+    "DURASI": 120,
+    "HARI": "SELASA",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSeihXwTTE_v3I_Auvx-X3a5Cv8u_j9XygRqZADKe3VB2-Bf9g/viewform?usp=sf_link",
+    "LINK GAMBAR": ""
+  },
+  {
+    "MAPEL": "IPA",
+    "KELAS": "IX",
+    "SESI": 1,
+    "TOKEN": 882729,
+    "DURASI": 120,
+    "HARI": "RABU",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdV0PNh4MRVF2qcfmOED3CyQga8brtUcZ2-UV1zvWJqnM1hpQ/viewform?usp=sf_link",
+    "LINK GAMBAR": ""
+  },
+  {
+    "MAPEL": "SENI BUDAYA",
+    "KELAS": "IX",
+    "SESI": 1,
+    "TOKEN": 449779,
+    "DURASI": 120,
+    "HARI": "RABU",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSeFE38iPdVRmsioQG2OUdTPxyQuBA-CDhs5RcL-B8XYPaSsxg/viewform?usp=sf_link",
+    "LINK GAMBAR": ""
+  },
+  {
+    "MAPEL": "BAHASA INGGRIS",
+    "KELAS": "IX",
+    "SESI": 1,
+    "TOKEN": 195547,
+    "DURASI": 120,
+    "HARI": "KAMIS",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdtVkH9Gv1DaBqVnka_ILw3ZvO6l6T6ojM8TcYHh-qY8eA8rA/viewform?usp=sf_link",
+    "LINK GAMBAR": ""
+  },
+  {
+    "MAPEL": "PJOK",
+    "KELAS": "IX",
+    "SESI": 1,
+    "TOKEN": 714123,
+    "DURASI": 120,
+    "HARI": "KAMIS",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSe-VfHNl5zBwRWbqMNRvkxExI65d4uzkSLidzAVbK4vvMoImg/viewform?usp=sf_link",
+    "LINK GAMBAR": ""
+  },
+  {
+    "MAPEL": "PEND. AGAMA ISLAM",
+    "KELAS": "IX",
+    "SESI": 1,
+    "TOKEN": 129853,
+    "DURASI": 120,
+    "HARI": "JUM'AT",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdTGx6fmge37aU4c2KgLBYm5Nzg7e8jxFmhLdPg0wNn07Jkew/viewform?usp=sf_link",
+    "LINK GAMBAR": ""
+  },
+  {
+    "MAPEL": "PEND. AGAMA KRISTEN KHATOLIK",
+    "KELAS": "IX",
+    "SESI": 1,
+    "TOKEN": 730791,
+    "DURASI": 120,
+    "HARI": "JUM'AT",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLScQC9ZcZpuJIx1gLMb2mtoRC9UOMio6Up1-panJs-0hAfPNnw/viewform?usp=sf_link",
+    "LINK GAMBAR": ""
+  },
+  {
+    "MAPEL": "PEND. AGAMA KRISTEN PROTESTAN",
+    "KELAS": "IX",
+    "SESI": 1,
+    "TOKEN": 982033,
+    "DURASI": 120,
+    "HARI": "JUM'AT",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdNcUNtJ1FK6A5LHzSl-h2olh8S_MCtmQveqq0uikD1CapZVQ/viewform?usp=sf_link",
+    "LINK GAMBAR": ""
+  },
+  {
+    "MAPEL": "IPS",
+    "KELAS": "IX",
+    "SESI": 1,
+    "TOKEN": 586408,
+    "DURASI": 120,
+    "HARI": "JUM'AT",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSeNQe2m-C0rInFjmvfmS38ZMC66ykuZaMHESppOkoJGabpNQw/viewform?usp=sf_link",
+    "LINK GAMBAR": ""
+  }
+]
