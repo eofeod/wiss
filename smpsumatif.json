@@ -1,246 +1,256 @@
 {
     "jadwal" : 
-  [
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 247920,
-      "BAHASA INDONESIA VII": "PPKn VII",
-      "VII": "VII",
-      "SENIN": "SENIN",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSe9t8DLnTedn1BZljvjGD8X2g96IXCewZMST-49xpeMvfJKXA/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 614347,
-      "BAHASA INDONESIA VII": "PJOK VII",
-      "VII": "VII",
-      "SENIN": "SENIN",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLScD6MHind1Q0wwRxmajUoP1h1i6jtGwUQp6-Aq_WCRzMg8xcA/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": "086135",
-      "BAHASA INDONESIA VII": "MATEMATIKA VII",
-      "VII": "VII",
-      "SENIN": "SELASA",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSdyyGSeY4k5AU7jZVzePbs30dIbHDBZ4HPODVxj-IbiXlO3oQ/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 243537,
-      "BAHASA INDONESIA VII": "PRAKARYA VII",
-      "VII": "VII",
-      "SENIN": "SELASA",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSdtDmVhZRsFAtJ_ys9WPuJa_qfLWb6TBSPWimTECNnMaPustQ/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": "033469",
-      "BAHASA INDONESIA VII": "SENI BUDAYA VII",
-      "VII": "VII",
-      "SENIN": "SELASA",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSf_R8O0wq0ZWuoncr9RqV9OfhnpRmpaX93KobsdX6LwqZ-BuQ/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 338660,
-      "BAHASA INDONESIA VII": "IPA VII",
-      "VII": "VII",
-      "SENIN": "RABU",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSd-8Yobe__S-flQGKf03DkBk6vwUnPxzSBO6LJYvWortWo5Iw/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 442643,
-      "BAHASA INDONESIA VII": "IPS VII",
-      "VII": "VII",
-      "SENIN": "RABU",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSdXbtIDKt7ind9hqPdzzp5jyCXIUr8J6U0CctQq4ucjdpu-Yg/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 385006,
-      "BAHASA INDONESIA VII": "BAHASA INGGRIS VII",
-      "VII": "VII",
-      "SENIN": "KAMIS",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSd_bJeVlIOQvsRGktYdzBZHOkzbTlN1anISxR8EB74AmtDhpQ/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 919483,
-      "BAHASA INDONESIA VII": "PAI VII",
-      "VII": "VII",
-      "SENIN": "KAMIS",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSeJsHw5e4-MaoixbJBrbd5-fP9TCD490DAGoi-0kZhgjwz5Ew/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 152022,
-      "BAHASA INDONESIA VII": "PA KRISTEN KHATOLIK VII",
-      "VII": "VII",
-      "SENIN": "KAMIS",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSc2KrdtfGVNfYVtUcVRqAJflSgLj68e_n1OjvXQx3r2dBkCLw/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 113775,
-      "BAHASA INDONESIA VII": "PA KRISTEN PROTESTAN VII",
-      "VII": "VII",
-      "SENIN": "KAMIS",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSdsKebJG5eRnndwlRTqBsfGrbRvdaCp9wEwcZBuuoMPd1bpGg/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 716058,
-      "BAHASA INDONESIA VII": "BAHASA INDONESIA VIII",
-      "VII": "VIII",
-      "SENIN": "SENIN",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLScQf1NboBIBwi9Y3QP4yGb4B-AxLye8MMwc-XCgrm_uzVvazA/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 140564,
-      "BAHASA INDONESIA VII": "PPKn VIII",
-      "VII": "VIII",
-      "SENIN": "SENIN",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSe23zUJ7Vefjvr3HgDU0R7myH2Ic4gxHmgo4tRVQYtLyeNrBg/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": "066599",
-      "BAHASA INDONESIA VII": "PJOK VIII",
-      "VII": "VIII",
-      "SENIN": "SENIN",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSeL86cseVE-JBH03y6P4L_kiSNaxrqT-k_5KqBEqfqu7iB66g/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 335571,
-      "BAHASA INDONESIA VII": "MATEMATIKA VIII",
-      "VII": "VIII",
-      "SENIN": "SELASA",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSdLWClwi72FBLNkg6Bphb5x2U4H2u5sydqWPHurgYivjozXqw/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": "082762",
-      "BAHASA INDONESIA VII": "PRAKARYA VIII",
-      "VII": "VIII",
-      "SENIN": "SELASA",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLScJk8Iq2Y1MD3klfTyFa7sNthHTVy4rBuFEtZj3F-fC4BNBdw/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 874954,
-      "BAHASA INDONESIA VII": "SENI BUDAYA VIII",
-      "VII": "VIII",
-      "SENIN": "SELASA",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSc8UdOwvSxJfqa_qsySMduylL771-bB9tVNJejQszNH0_ws_g/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 329909,
-      "BAHASA INDONESIA VII": "IPA VIII",
-      "VII": "VIII",
-      "SENIN": "RABU",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLScZine-fY9ok2QCCfmjO2-t5tjMC4rkFHIcxSbryMHWD6QV3w/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": "096217",
-      "BAHASA INDONESIA VII": "IPS VIII",
-      "VII": "VIII",
-      "SENIN": "RABU",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSekbPTMr-MNriBA5BsISOSFwaB3NfveRrgM7BpW_oYj0On-XA/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 922070,
-      "BAHASA INDONESIA VII": "BAHASA INGGRIS VIII",
-      "VII": "VIII",
-      "SENIN": "KAMIS",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSf5Lsd0_Q9cm9JdTpRe5enTnvwF3MAGNRPy7QWdzzHeQjPFLg/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 693459,
-      "BAHASA INDONESIA VII": "PAI VIII",
-      "VII": "VIII",
-      "SENIN": "KAMIS",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSdj1fGNhmT3pSVlBmxopk-wm4dmw1I_JTGFmPrJQn-leMe6gQ/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 932128,
-      "BAHASA INDONESIA VII": "PA KRISTEN KHATOLIK VIII",
-      "VII": "VIII",
-      "SENIN": "KAMIS",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSfR1iOYKawuQHMlGkdPB2rDqxpeJXCXfdCURchKp69hOA9r0Q/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 588038,
-      "BAHASA INDONESIA VII": "PA KRISTEN PROTESTAN VIII",
-      "VII": "VIII",
-      "SENIN": "KAMIS",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSf__vinsR184IsmTC0bgCpiR_ZWq4VxkXJzxYuxGx_XFIuHGw/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    },
-    {
-      "1": 1,
-      "120": 120,
-      "982197": 123458,
-      "BAHASA INDONESIA VII": "TRY OUT XX",
-      "VII": "XX",
-      "SENIN": "TUTUP",
-      "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link": "https://docs.google.com/forms/d/e/1FAIpQLSdDsrXiTWYciS94tKxuf8LCTkbFnvDHy6wzKHToyV-EXgLkFA/viewform?usp=sf_link",
-      "https://cdn-icons-png.flaticon.com/512/3898/3898023.png": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
-    }
-  ]
+ [
+  {
+    "MAPEL": "BAHASA INDONESIA VII",
+    "KELAS": "VII",
+    "SESI": 1,
+    "TOKEN": 982197,
+    "DURASI": 120,
+    "HARI": "SENIN",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSc-rdGhlfAQLTArrm1yDniiTW1Fa8pUR324ayG6WmOeAahNsg/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "PPKn VII",
+    "KELAS": "VII",
+    "SESI": 1,
+    "TOKEN": 247920,
+    "DURASI": 120,
+    "HARI": "SENIN",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSe9t8DLnTedn1BZljvjGD8X2g96IXCewZMST-49xpeMvfJKXA/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "PJOK VII",
+    "KELAS": "VII",
+    "SESI": 1,
+    "TOKEN": 614347,
+    "DURASI": 120,
+    "HARI": "SENIN",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLScD6MHind1Q0wwRxmajUoP1h1i6jtGwUQp6-Aq_WCRzMg8xcA/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "MATEMATIKA VII",
+    "KELAS": "VII",
+    "SESI": 1,
+    "TOKEN": "086135",
+    "DURASI": 120,
+    "HARI": "SELASA",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdyyGSeY4k5AU7jZVzePbs30dIbHDBZ4HPODVxj-IbiXlO3oQ/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "PRAKARYA VII",
+    "KELAS": "VII",
+    "SESI": 1,
+    "TOKEN": 243537,
+    "DURASI": 120,
+    "HARI": "SELASA",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdtDmVhZRsFAtJ_ys9WPuJa_qfLWb6TBSPWimTECNnMaPustQ/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "SENI BUDAYA VII",
+    "KELAS": "VII",
+    "SESI": 1,
+    "TOKEN": "033469",
+    "DURASI": 120,
+    "HARI": "SELASA",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSf_R8O0wq0ZWuoncr9RqV9OfhnpRmpaX93KobsdX6LwqZ-BuQ/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "IPA VII",
+    "KELAS": "VII",
+    "SESI": 1,
+    "TOKEN": 338660,
+    "DURASI": 120,
+    "HARI": "RABU",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSd-8Yobe__S-flQGKf03DkBk6vwUnPxzSBO6LJYvWortWo5Iw/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "IPS VII",
+    "KELAS": "VII",
+    "SESI": 1,
+    "TOKEN": 442643,
+    "DURASI": 120,
+    "HARI": "RABU",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdXbtIDKt7ind9hqPdzzp5jyCXIUr8J6U0CctQq4ucjdpu-Yg/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "BAHASA INGGRIS VII",
+    "KELAS": "VII",
+    "SESI": 1,
+    "TOKEN": 385006,
+    "DURASI": 120,
+    "HARI": "KAMIS",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSd_bJeVlIOQvsRGktYdzBZHOkzbTlN1anISxR8EB74AmtDhpQ/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "PAI VII",
+    "KELAS": "VII",
+    "SESI": 1,
+    "TOKEN": 919483,
+    "DURASI": 120,
+    "HARI": "KAMIS",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSeJsHw5e4-MaoixbJBrbd5-fP9TCD490DAGoi-0kZhgjwz5Ew/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "PA KRISTEN KHATOLIK VII",
+    "KELAS": "VII",
+    "SESI": 1,
+    "TOKEN": 152022,
+    "DURASI": 120,
+    "HARI": "KAMIS",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSc2KrdtfGVNfYVtUcVRqAJflSgLj68e_n1OjvXQx3r2dBkCLw/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "PA KRISTEN PROTESTAN VII",
+    "KELAS": "VII",
+    "SESI": 1,
+    "TOKEN": 113775,
+    "DURASI": 120,
+    "HARI": "KAMIS",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdsKebJG5eRnndwlRTqBsfGrbRvdaCp9wEwcZBuuoMPd1bpGg/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "BAHASA INDONESIA VIII",
+    "KELAS": "VIII",
+    "SESI": 1,
+    "TOKEN": 716058,
+    "DURASI": 120,
+    "HARI": "SENIN",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLScQf1NboBIBwi9Y3QP4yGb4B-AxLye8MMwc-XCgrm_uzVvazA/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "PPKn VIII",
+    "KELAS": "VIII",
+    "SESI": 1,
+    "TOKEN": 140564,
+    "DURASI": 120,
+    "HARI": "SENIN",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSe23zUJ7Vefjvr3HgDU0R7myH2Ic4gxHmgo4tRVQYtLyeNrBg/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "PJOK VIII",
+    "KELAS": "VIII",
+    "SESI": 1,
+    "TOKEN": "066599",
+    "DURASI": 120,
+    "HARI": "SENIN",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSeL86cseVE-JBH03y6P4L_kiSNaxrqT-k_5KqBEqfqu7iB66g/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "MATEMATIKA VIII",
+    "KELAS": "VIII",
+    "SESI": 1,
+    "TOKEN": 335571,
+    "DURASI": 120,
+    "HARI": "SELASA",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdLWClwi72FBLNkg6Bphb5x2U4H2u5sydqWPHurgYivjozXqw/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "PRAKARYA VIII",
+    "KELAS": "VIII",
+    "SESI": 1,
+    "TOKEN": "082762",
+    "DURASI": 120,
+    "HARI": "SELASA",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLScJk8Iq2Y1MD3klfTyFa7sNthHTVy4rBuFEtZj3F-fC4BNBdw/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "SENI BUDAYA VIII",
+    "KELAS": "VIII",
+    "SESI": 1,
+    "TOKEN": 874954,
+    "DURASI": 120,
+    "HARI": "SELASA",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSc8UdOwvSxJfqa_qsySMduylL771-bB9tVNJejQszNH0_ws_g/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "IPA VIII",
+    "KELAS": "VIII",
+    "SESI": 1,
+    "TOKEN": 329909,
+    "DURASI": 120,
+    "HARI": "RABU",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLScZine-fY9ok2QCCfmjO2-t5tjMC4rkFHIcxSbryMHWD6QV3w/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "IPS VIII",
+    "KELAS": "VIII",
+    "SESI": 1,
+    "TOKEN": "096217",
+    "DURASI": 120,
+    "HARI": "RABU",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSekbPTMr-MNriBA5BsISOSFwaB3NfveRrgM7BpW_oYj0On-XA/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "BAHASA INGGRIS VIII",
+    "KELAS": "VIII",
+    "SESI": 1,
+    "TOKEN": 922070,
+    "DURASI": 120,
+    "HARI": "KAMIS",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSf5Lsd0_Q9cm9JdTpRe5enTnvwF3MAGNRPy7QWdzzHeQjPFLg/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "PAI VIII",
+    "KELAS": "VIII",
+    "SESI": 1,
+    "TOKEN": 693459,
+    "DURASI": 120,
+    "HARI": "KAMIS",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdj1fGNhmT3pSVlBmxopk-wm4dmw1I_JTGFmPrJQn-leMe6gQ/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "PA KRISTEN KHATOLIK VIII",
+    "KELAS": "VIII",
+    "SESI": 1,
+    "TOKEN": 932128,
+    "DURASI": 120,
+    "HARI": "KAMIS",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSfR1iOYKawuQHMlGkdPB2rDqxpeJXCXfdCURchKp69hOA9r0Q/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "PA KRISTEN PROTESTAN VIII",
+    "KELAS": "VIII",
+    "SESI": 1,
+    "TOKEN": 588038,
+    "DURASI": 120,
+    "HARI": "KAMIS",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSf__vinsR184IsmTC0bgCpiR_ZWq4VxkXJzxYuxGx_XFIuHGw/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  },
+  {
+    "MAPEL": "TRY OUT XX",
+    "KELAS": "XX",
+    "SESI": 1,
+    "TOKEN": 123458,
+    "DURASI": 120,
+    "HARI": "TUTUP",
+    "LINK SOAL": "https://docs.google.com/forms/d/e/1FAIpQLSdDsrXiTWYciS94tKxuf8LCTkbFnvDHy6wzKHToyV-EXgLkFA/viewform?usp=sf_link",
+    "LINK GAMBAR": "https://cdn-icons-png.flaticon.com/512/3898/3898023.png"
+  }
+]
     
 }
